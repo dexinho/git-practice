@@ -1,0 +1,24 @@
+1. Nedostaje language u <html> tagu
+
+2. Nedostaje <meta charset="utf-8">
+
+3. Nedostaje <link> za css
+
+4. Nedostaje zatvoren </a> tag
+
+5. </div> visak
+
+6. <li> tag nema checked atribut
+
+7. <footer> tag nema src atribut
+
+8. dupli "li" id
+
+9. style atributu nedostaju navodnici
+
+BONUS POINT:
+
+&nbsp; - non-breaking space entitet 
+predstavlja razmak izmedju rijeci, 
+ali ustvari iza scene sastavlja rijeci 
+i ne dozovljava im da budu razmaknute
